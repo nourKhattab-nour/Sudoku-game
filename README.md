@@ -6,7 +6,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This project implements an intelligent Sudoku solver that compares five different algorithms:  
-**Backtracking**, **Backtracking + Hashmap**, **Constraint Propagation**, **Genetic Algorithm**, and **Dancing Links**.  
+**Backtracking** and **Genetic Algorithm** .  
 Each algorithm is evaluated based on **execution time**, **memory usage**, and **solution correctness** across different grid sizes (3×3, 6×6, 9×9).
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
